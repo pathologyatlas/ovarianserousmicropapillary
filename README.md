@@ -1,4 +1,4 @@
-# Ovarian Serous Micropapillary Carcinoma
+# Ovarian Serous borderline tumor, micropapillary variant
 
 - [https://pathologyatlas.github.io/ovarianserousmicropapillary/HE.html](https://pathologyatlas.github.io/ovarianserousmicropapillary/HE.html)
 
